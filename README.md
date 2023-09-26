@@ -12,3 +12,6 @@ ctrl+8    xFormat_K8    find tables by column name keyword
 ctrl+9    xFormat_K9    find stored procedures by keyword
 ctrl+0    xFormat_K0    help
 ```
+Please, follow next example:
+
+![SSMS Toolkit Setup](/setup.png)
