@@ -14,4 +14,4 @@ ctrl+0    xFormat_K0    help
 ```
 Please, follow next example:
 
-![SSMS Toolkit Setup](/setup.png)
+![SSMS Toolkit Setup](/assets/setup.png)
